@@ -11,20 +11,6 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-<<<<<<< HEAD
-ActiveRecord::Schema.define(version: 20150324092056) do
-
-  create_table "contacts", force: true do |t|
-=======
-ActiveRecord::Schema.define(version: 20150404044631) do
-
-  create_table "contacts", force: true do |t|
-    t.string   "name"
-    t.string   "email"
-    t.text     "comments"
-    t.datetime "created_at"
-    t.datetime "updated_at"
->>>>>>> development
-  end
+ActiveRecord::Schema.define(version: 0) do
 
 end
