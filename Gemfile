@@ -50,4 +50,4 @@ gem 'devise','3.4.1'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+# gem file devise
